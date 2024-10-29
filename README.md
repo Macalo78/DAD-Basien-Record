@@ -13,16 +13,16 @@ Ce qui me passionne, c'est l'idée d'explorer des histoires, de créer des narra
 Cette année, j'espère approfondir mes compétences,(code, narration, 3D, couleur) la conception des projets, les idées. Et j’espère également que plus tard pouvoir passer en 4ème/5ème année et poursuivre mes recherches, mes projets.
 
 Compétences Actuelles
-Compétences : 5
+Compétences : 
 // notez vous avec une note entre 0 et 20 pour chaque compétence et rajoutez une petite description
 
 CODING 8
 
 GIT ET VERSIONNING 0
 
-INTERACTIVITÉ ET RENDU TEMPS RÉEL 13
+INTERACTIVITÉ ET RENDU TEMPS RÉEL 11
 
-GRAPHISME ET DESIGN D'INTERFACE 13
+GRAPHISME ET DESIGN D'INTERFACE 11
 
 INSTALLATION ET MISE EN ESPACE 12
 
