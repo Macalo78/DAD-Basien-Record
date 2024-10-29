@@ -9,6 +9,9 @@ Profil et Connaissances
 Présentation Personnelle
 //Décrivez en quelques phrases vos objectifs à cours terme et long terme si vou en avez :
 
+Ce qui me passionne, c'est l'idée d'explorer des histoires, de créer des narrations immersives et de réaliser des jeux où l'interaction avec le joueur est au cœur de l'expérience. J'aime cette idée d'interaction par les jeux, car ils peuvent touchés tout les sens. Dans mon projet en autonomie, j'essaie de m'intéresser à l'impact emotionnel de la narration et des visuels par le numérique des recherches (pour le moment c'est toujours du questionnement un peu casse gueule) mais j'ai envie de faire des recherches par la couleur, la manière de jouer (manette, clavier, touches attribuer) game design, design narratif, art etc...
+Cette année, j'espère approfondir mes compétences,(code, narration, 3D, couleur) la conception des projets, les idées. Et j’espère également que plus tard pouvoir passer en 4ème/5ème année et poursuivre mes recherches, mes projets.
+
 Compétences Actuelles
 Compétences : 5
 // notez vous avec une note entre 0 et 20 pour chaque compétence et rajoutez une petite description
