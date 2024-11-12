@@ -31,10 +31,12 @@ PRÉSENTATION ET ARGUMENTATION 10
 Projet et Thématique de Recherche
 Projet 1
 Sujet de Projet :
-Est ce que tout le monde peut faire de la musique et avec n'importe quelle object ?
+Est ce que tout le monde peut faire de la musique et avec n'importe quel object ?
 
 Titre du projet :
 Description du projet (environ 150 mots) :
+Je voudrais qu'avec des objets du quotidien ou non, que l'on puisse créer de la musique, créer un beat. Ce qui m'interresse c'est l'interaction que l'on pourrait avoir avec l'objet et créer ses propres son.
+
 Thématiques de Recherche
 Thématiques que vous souhaitez explorer :
 Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :
