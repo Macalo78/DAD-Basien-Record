@@ -56,7 +56,7 @@ Maîtrise de Unity
 
 Références Artistiques
   - Odada (jeu)
-  - La boîte à donuts (flash ruffle)
+  - La boîte à donuts, David Besnier(flash ruffle)
   - sizeable (jeu)
   - Empty (itch.io)
 
@@ -71,6 +71,7 @@ CRÉATION D'UN SUJET DE RECHERCHE
 
 Participation à un Sujet de Recherche
 // Quel sujet de recherche proposé par un étudiant vous intéresse et pourquoi ? :
+
 
 Contributions aux ressources
 Des ressources communes seront alimentées par tous. Chaque étudiant devra contribuer et enrichir cet ensemble de ressources.
