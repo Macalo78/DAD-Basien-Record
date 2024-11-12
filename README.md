@@ -10,7 +10,7 @@ Présentation Personnelle
 //Décrivez en quelques phrases vos objectifs à cours terme et long terme si vou en avez :
 
 Ce qui me passionne, c'est l'idée d'explorer des histoires, de créer des narrations immersives et de réaliser des jeux où l'interaction avec le joueur est au cœur de l'expérience. J'aime cette idée d'interaction par les jeux, car ils peuvent touchés tout les sens. Dans mon projet en autonomie, j'essaie de m'intéresser à l'impact emotionnel de la narration et des visuels par le numérique des recherches (pour le moment c'est toujours du questionnement) mais j'ai envie de faire des recherches par la couleur, la manière de jouer (manette, clavier, touches attribuer) game design, design narratif, art etc...
-Cette année, j'espère approfondir mes compétences,(code, narration, 3D, couleur) la conception des projets, les idées. Et j’espère également que plus tard pouvoir passer en 4ème/5ème année et poursuivre mes recherches, mes projets.
+Cette année, j'espère approfondir mes compétences,(code, narration, 3D, couleur) la conception des projets, les idées. Et j’espère également, plus tard pouvoir passer en 4ème/5ème année et poursuivre mes recherches, mes projets.
 
 Compétences Actuelles
 Compétences : 
@@ -35,15 +35,31 @@ Est ce que tout le monde peut faire de la musique et avec n'importe quel object 
 
 Titre du projet :
 Description du projet (environ 150 mots) :
-Je voudrais qu'avec des objets du quotidien ou non, que l'on puisse créer de la musique, créer un beat. Ce qui m'interresse c'est l'interaction que l'on pourrait avoir avec l'objet et créer ses propres son.
+Je voudrais créer un jeu sur Unity qu'avec des objets du quotidien ou non, que l'on puisse créer de la musique, créer un beat. Ce qui m'intérresse c'est l'intéraction que l'on pourrait avoir avec l'objet et créer ses propres son. Qu'on puisse enregistrer notre son pour pouvoir l'utiliser pour du mixage etc... Que chaque objet dévoile son propre potenciel. L'idée est de voir par un simple jeu de réaliser sois même son propre beat avec différents objets, et différents sonorité dépendant du type d'objet. On pourra intéragir avec l'objet appuyer par exemple sur une épée sa lame pour produire le son. On pourra aussi jouer plusieurs note en même temps en appuyant sur les touches pour développer le mélange de sonorité. 
 
 Thématiques de Recherche
 Thématiques que vous souhaitez explorer :
+intrigué par la réaction de l'interaction 
+
 Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :
+La création de jeu vidéo m'intéresse par sa possibilité de nous englobé par tout les sens(toucher, son, visuel...) dans un autre univers. 
+
+
 Outils et Techniques
 Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :
+  - Unity
+  - Blender
+  - html, css, java, C#(pour unity)
+
 Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :
+Maîtrise de Unity
+
 Références Artistiques
+  - Odada (jeu)
+  - La boîte à donuts (flash ruffle)
+  - sizeable (jeu)
+  - Empty (itch.io)
+
 Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :
 Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :
 Actions
@@ -70,3 +86,5 @@ Commentaires et Questions
 //Avez-vous des questions ou des préoccupations à propos du cours ou de vos projets ? :
 
 Journal de bord
+
+
