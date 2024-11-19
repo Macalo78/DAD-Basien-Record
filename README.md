@@ -59,6 +59,7 @@ Références Artistiques
   - La boîte à donuts, David Besnier(flash ruffle)
   - sizeable (jeu)
   - Empty (itch.io)
+  - Chants of sennar (jeu) pour l'idée des visuels assez contrasté
 
 Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :
 Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :
@@ -88,6 +89,8 @@ Commentaires et Questions
 
 Journal de bord
 
-12/11/2024 J'ai réalisé mon objet en 3D et continuer des story board pour donner une idée comment le jeu serait. J'ai commencé à regardé des vidéos pour réalisé plus tard l'intéraction avec l'objet et la caméra avec C#
+12/11/2024 
+J'ai réalisé mon objet en 3D et continuer des story board pour donner une idée comment le jeu serait. J'ai commencé à regardé des vidéos pour réalisé plus tard l'intéraction avec l'objet et la caméra avec C#
 
-19/11/2024 Aujourd'hui j'ai surtout commenncé à réfléchir au design de mon jeu couleur l'univers que je veux montrer. J'ai réalisé les boutons que je vais utilisé sur photoshop et est commencé à écrire C# avec de la difficulté car ce qui utilisé pour cce code est encore pas tout à fait clair pour moi donc j'ai surtout continuer à apprendre pour pouvoir réalisé mon projet.
+19/11/2024 
+Aujourd'hui j'ai surtout commenncé à réfléchir au design de mon jeu couleur l'univers que je veux montrer. J'ai réalisé les boutons que je vais utilisé sur photoshop et est commencé à écrire C# avec de la difficulté car ce qui utilisé pour cce code est encore pas tout à fait clair pour moi donc j'ai surtout continuer à apprendre pour pouvoir réalisé mon projet.
