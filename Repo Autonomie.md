@@ -89,6 +89,8 @@ Journal de bord
 
 Remplissage de la feuille d'information, Commencement du site en html, css, réflexion sur les graphiques sur que de l'aquarelle, ou test d'autre visuels
 
+![IMG_0002](https://github.com/user-attachments/assets/94cda533-f3b2-476e-9145-7d1895708e4f)
+
 
 
 
