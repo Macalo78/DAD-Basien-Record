@@ -94,6 +94,7 @@ Journal de bord
 
 12/11/2024 
 J'ai réalisé mon objet en 3D et continuer des story board pour donner une idée comment le jeu serait. J'ai commencé à regardé des vidéos pour réalisé plus tard l'intéraction avec l'objet et la caméra avec C#
+![image](https://github.com/user-attachments/assets/24dbf9ea-2fce-49a9-8df2-21324d1c5b86)
 
 19/11/2024 
 Aujourd'hui j'ai surtout commenncé à réfléchir au design de mon jeu couleur l'univers que je veux montrer. J'ai réalisé les boutons que je vais utilisé dans le jeu sur photoshop et j'ai commencé à écrire C# avec de la difficulté car ce qui utilisé pour ce code est encore pas tout à fait clair pour moi donc j'ai surtout continuer à apprendre pour pouvoir réalisé mon projet.
