@@ -47,12 +47,13 @@ La création de jeu vidéo m'intéresse par sa possibilité de nous englobé par
 
 Outils et Techniques
 Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :
-  - Unity
+  - Unity 
   - Blender
   - html, css, java, C#(pour unity)
 
 Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :
 Maîtrise de Unity
+et approndir dans le code tout les languages.
 
 Références Artistiques
   - Odada (jeu)
@@ -69,6 +70,8 @@ Contribution à un Projet d'Autre Étudiant
 
 CRÉATION D'UN SUJET DE RECHERCHE
 // Vous devrez tous écrire un sujet de recherche, une thématique ou un propos de création lié à l'un de vos projets. Par exemple, si vous avez un projet de création d'un outil de capture d'image basé sur des algorithmes, vous devrez formuler un intitulé pour cette pratique : « Création de capture d'image algorithmique sur mobile ».
+
+Sucité l'intérêt des gens par l'interaction. 
 
 Participation à un Sujet de Recherche
 // Quel sujet de recherche proposé par un étudiant vous intéresse et pourquoi ? :
@@ -93,4 +96,7 @@ Journal de bord
 J'ai réalisé mon objet en 3D et continuer des story board pour donner une idée comment le jeu serait. J'ai commencé à regardé des vidéos pour réalisé plus tard l'intéraction avec l'objet et la caméra avec C#
 
 19/11/2024 
-Aujourd'hui j'ai surtout commenncé à réfléchir au design de mon jeu couleur l'univers que je veux montrer. J'ai réalisé les boutons que je vais utilisé sur photoshop et est commencé à écrire C# avec de la difficulté car ce qui utilisé pour cce code est encore pas tout à fait clair pour moi donc j'ai surtout continuer à apprendre pour pouvoir réalisé mon projet.
+Aujourd'hui j'ai surtout commenncé à réfléchir au design de mon jeu couleur l'univers que je veux montrer. J'ai réalisé les boutons que je vais utilisé dans le jeu sur photoshop et j'ai commencé à écrire C# avec de la difficulté car ce qui utilisé pour ce code est encore pas tout à fait clair pour moi donc j'ai surtout continuer à apprendre pour pouvoir réalisé mon projet.
+![Bouton download](https://github.com/user-attachments/assets/33dc4999-58ff-4600-9b15-cb2cce9db561)
+![Bouton play enfoncé](https://github.com/user-attachments/assets/7c55e275-9787-4389-9efe-06986d7b87d4)
+![Bouton pause](https://github.com/user-attachments/assets/4cf4b720-1acb-4e3b-9aa5-a017bb02bd32)
