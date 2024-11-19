@@ -90,10 +90,13 @@ Planning de Travail
 Commentaires et Questions
 //Avez-vous des questions ou des préoccupations à propos du cours ou de vos projets ? :
 
-Journal de bord
+
+
+Journal de bord :
 
 12/11/2024 
-J'ai réalisé mon objet en 3D et continuer des story board pour donner une idée comment le jeu serait. J'ai commencé à regardé des vidéos pour réalisé plus tard l'intéraction avec l'objet et la caméra avec C#
+J'ai réalisé mon objet en 3D et continuer des story board pour donner une idée comment le jeu serait. J'ai commencé à regardé des vidéos pour réalisé plus tard l'intéraction avec l'objet et la caméra avec C#.
+
 ![image](https://github.com/user-attachments/assets/24dbf9ea-2fce-49a9-8df2-21324d1c5b86)
 
 19/11/2024 
