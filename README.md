@@ -57,7 +57,7 @@ Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :
 
 Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :
 Maîtrise de Unity
-et approndir dans le code tout les languages.
+et approndir dans le code tout les languages. (encore du mal pas très à l'aise)
 
 Références Artistiques
   - Odada (jeu)
