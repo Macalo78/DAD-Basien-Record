@@ -17,16 +17,20 @@ Compétences :
 // notez vous avec une note entre 0 et 20 pour chaque compétence et rajoutez une petite description
 
 CODING 8
-
+j'ai encore du mal surtout au niveau du java script
+sinon je sais que j'ai juste parfois à revoir comment faire sur internet et je peux ensuite me débrouiller
 GIT ET VERSIONNING 0
-
+je ne sais pas ce que c'est
 INTERACTIVITÉ ET RENDU TEMPS RÉEL 11
 
 GRAPHISME ET DESIGN D'INTERFACE 11
-
+Parfois je sais que je reste un peu trop à la surface car je serai pas comment l'argumenter ou j'ai juste pas d'idée réel
 INSTALLATION ET MISE EN ESPACE 12
 
 PRÉSENTATION ET ARGUMENTATION 10
+On m'a dit que j'avais des références mais j'ai encore du mal avec les explications parfois 
+je les perds dans mes paroles et si on me coupe la parole je sais que je peux avoir des troues (je sais plus ce que je disais)
+et on dit souvent d'avoir une feuille avec sois mais j'arrive pas à me concentrer entre ce que je dis puis revoir les mots clés je m'enbrouille juste.
 
 Projet et Thématique de Recherche
 Projet 1
