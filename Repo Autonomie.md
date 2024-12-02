@@ -91,6 +91,9 @@ Remplissage de la feuille d'information, Commencement du site en html, css, réf
 
 ![IMG_0002](https://github.com/user-attachments/assets/94cda533-f3b2-476e-9145-7d1895708e4f)
 ![Papillons T2](https://github.com/user-attachments/assets/d6ed217f-fbcf-424c-9138-684545f6edcd)
+![image](https://github.com/user-attachments/assets/0bd14928-da2c-497c-9484-25658c01a0ee)
+
+Depuis quelques semaines, j'ai réalisé plusieurs essaie de nouveaux de style de dessin et je prévois d'en vendre au marché de Noël et de les utiliser à voir pour le moment pour une interrogation plus profonde au niveau du graphisme pour provoqué des émotions.
 
 
 
