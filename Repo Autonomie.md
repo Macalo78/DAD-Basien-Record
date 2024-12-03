@@ -86,7 +86,7 @@ Commentaires et Questions
 Journal de bord
 
 20/11/2024
-
+site de la narration: https://docs.google.com/document/d/1CO09MxuC0hFZbB_v-gsFEeLbTwpW4HRkP4OLvavMqRw/edit?tab=t.0
 Remplissage de la feuille d'information, Commencement du site en html, css, réflexion sur les graphiques sur que de l'aquarelle, ou test d'autre visuels
 
 ![IMG_0002](https://github.com/user-attachments/assets/94cda533-f3b2-476e-9145-7d1895708e4f)
