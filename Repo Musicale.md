@@ -115,5 +115,9 @@ Pour le moment j'ai rajouté des boutons pour voir comment ça rendrait et mis l
 
 ![image](https://github.com/user-attachments/assets/212f74c4-5a5b-43f4-a97a-abedfb3cfc76)
 
+09/12/2024
+Je test du script pour pouvoir jouer avec les touches de la musique et j'essaie de faire en sorte que le bouton enregistre pas réellement le son pas qui recopie nos touches.
+
 10/12/2024
-Depuis hier je test du script pour pouvoir jouer avec les touches de la musique et j'essaie de faire en sorte que le bouton enregistre pas réellement le son pas qui recopie nos touches.
+J'ai également essayé touché à touch designer et à faire des formes contemplatif, des visuels intéractif, pour le moment j'ai reussi à faire en sorte que le visuel sois relié à ma caméra et j'ai fais la même chose pour le son. Emilie Retailleau m'a également aidé sur touch designer à comprendre son utilisation
+
