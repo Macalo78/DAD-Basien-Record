@@ -115,6 +115,8 @@ Pour le moment j'ai rajouté des boutons pour voir comment ça rendrait et mis l
 
 ![image](https://github.com/user-attachments/assets/212f74c4-5a5b-43f4-a97a-abedfb3cfc76)
 
+03/12/2024 On revue un peu de code avec Anne-Sophie et Jolène on s'est entraider à comprendre comment ça marche.
+
 09/12/2024
 Je test du script pour pouvoir jouer avec les touches de la musique et j'essaie de faire en sorte que le bouton enregistre pas réellement le son pas qui recopie nos touches.
 
