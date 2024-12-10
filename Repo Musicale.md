@@ -110,8 +110,10 @@ Aujourd'hui j'ai surtout commenncé à réfléchir au design de mon jeu couleur 
 ![Bouton pause](https://github.com/user-attachments/assets/4cf4b720-1acb-4e3b-9aa5-a017bb02bd32)
 
 25/11/2024
-J'ai commencé à réfléchir comment je pourrais faire pour faire enn sorte d'enregistrer je vais devoir coder  j'ai fais la caméra en regardant une vidéo pour le moment j'ai essayé un peu de voir comment ça fonctionner j'ai donc compris mais à refaire c'est autre chose faut que je m'entraine encore. 
-Pour le momentt j'ai rajouté des boutons pour voir comment ça rendrait et mis la lame cliquable pour tester.
+J'ai commencé à réfléchir comment je pourrais faire pour faire enn sorte d'enregistrer je vais devoir coder j'ai fais la caméra en regardant une vidéo j'ai essayé un peu de voir comment ça fonctionner j'ai donc compris mais à refaire c'est autre chose faut que je m'entraine encore. 
+Pour le moment j'ai rajouté des boutons pour voir comment ça rendrait et mis la lame cliquable pour tester.
 
 ![image](https://github.com/user-attachments/assets/212f74c4-5a5b-43f4-a97a-abedfb3cfc76)
 
+10/12/2024
+Depuis hier je test du script pour pouvoir jouer avec les touches de la musique et j'essaie de faire en sorte que le bouton enregistre pas réellement le son pas qui recopie nos touches.
