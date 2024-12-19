@@ -98,6 +98,11 @@ Depuis quelques semaines, j'ai réalisé plusieurs essaie de nouveaux de style d
 
 ![image](https://github.com/user-attachments/assets/0bd14928-da2c-497c-9484-25658c01a0ee)
 
+19/12/2024
+
+Pour le moment le projet avance plus lentement je dois mettre plein de chose en place. Je dois réecrire certaines chose car j'ai organisé les émotions pour chaques réponse donc maintenant plus à réecrire et se basé sur ça, je pense que pour les bilans je montrerai des dessins, pour montrer un premier jet de la première page si possible pour voir ce que ça donnerai ect... J'aimerai bien mettre vraiment un espace avec des objets de la chambre d'augustine.
+Et je pense que je vais mélanger plusieurs sorte de visuel pour apporter ce côté plus naif mais presque flouter des objets car pour le moment il y a que certains autres objets qui ont vraiment de l'importance.
+
 
 
 
