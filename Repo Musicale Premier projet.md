@@ -43,10 +43,10 @@ Je voudrais créer un jeu sur Unity qu'avec des objets du quotidien ou non, que 
 
 Thématiques de Recherche
 Thématiques que vous souhaitez explorer :
-intrigué par la réaction de l'interaction 
+Intrigué par la réaction de l'interaction.
 
 Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :
-La création de jeu vidéo m'intéresse par sa possibilité de nous englobé par tout les sens(toucher, son, visuel...) dans un autre univers. 
+La création de jeu vidéo m'intéresse par sa possibilité de nous englobé par tout les sens(toucher, son, visuel...) dans un autre univers. Y a quelque chose de fascinant dans les jeux vidéos c'est qui y a cette englobement de la personne possible et d'interactions avec les spectateurs/les joueurs. 
 
 
 Outils et Techniques
@@ -68,9 +68,12 @@ Références Artistiques
 
 Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :
 Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :
+
 Actions
 Contribution à un Projet d'Autre Étudiant
 // Décrivez comment vous comptez contribuer au projet d'un autre étudiant (proposition d'idées, aide technique, etc.) :
+
+Au départ je voulais proposé de l'aide au niveau de peut être la 3D (blender, unity etc..) mais enfainte on surtout pu discuté des projets de chacun et s'intéressé et surtout ça qu'y a jouer c'est des aides dans ce qu'ils/elles veulent réalisés. J'ai pu discuté avec Eda sur sa disposition de motif sur son essaie d'accrochage avec Anne-Sophie et Jolène on a discuté à propos du code et ce qu'il était possible de réalisé avec ect.. Et avec Emilie on discuté de Touch Designer et ce qu'il était envisageable de réalisé et m'a aidé à réalisé mes projets.
 
 CRÉATION D'UN SUJET DE RECHERCHE
 // Vous devrez tous écrire un sujet de recherche, une thématique ou un propos de création lié à l'un de vos projets. Par exemple, si vous avez un projet de création d'un outil de capture d'image basé sur des algorithmes, vous devrez formuler un intitulé pour cette pratique : « Création de capture d'image algorithmique sur mobile ».
@@ -116,15 +119,17 @@ Pour le moment j'ai rajouté des boutons pour voir comment ça rendrait et mis l
 ![image](https://github.com/user-attachments/assets/212f74c4-5a5b-43f4-a97a-abedfb3cfc76)
 
 03/12/2024 On revue un peu de code avec Anne-Sophie et Jolène on s'est entraider à comprendre comment ça marche.
+Et j'ai pu voir ce que je pourrais utilisé plus tard pour pouvoir réalisé de futur projets
 
 09/12/2024
-Je test du script pour pouvoir jouer avec les touches de la musique et j'essaie de faire en sorte que le bouton enregistre pas réellement le son pas qui recopie nos touches.
+Je test du script pour pouvoir jouer avec les touches de la musique et j'essaie de faire en sorte que le bouton enregistre pas réellement le son pas qui recopie nos touches. 
+Avec Eda on pu discuté de son projets pour voir quand elle pourrait le présenter c'était qu'un essaie pour le moment mais c'était intéressant de parler un peu comment on voyait la chose et je pense qu'un point de vue extérieur aide réellement a remettre en question son travail. Donc notre discution nous apporté à tout les deux. 
 
 10/12/2024
-J'ai également essayé touché à touch designer et à faire des formes contemplatif, des visuels intéractif, pour le moment j'ai reussi à faire en sorte que le visuel sois relié à ma caméra et j'ai fais la même chose pour le son. Emilie Retailleau m'a également aidé sur touch designer à comprendre son utilisation
+J'ai également essayé touché à touch designer et à faire des formes contemplatif, des visuels intéractif, pour le moment j'ai reussi à faire en sorte que le visuel sois relié à ma caméra et j'ai fais la même chose pour le son. Emilie Retailleau m'a également aidé sur touch designer à comprendre son utilisation et m'a donnée des astuces pour faire certaines choses.
 
 19/12/2024
-J'essaie de réalisé des photos du code que j'ai réalisé pour le moment, je réfléchis à encore sur ce que j'aimerai faire. Je mettrai bien une loop comme proposais Robin pour pouvoir faire de nouvelle notes à chaque fois ça peut être interessant visuellement c'est toujours un peu brouillon faudrais que je change certaines chose. 
+J'essaie de réalisé des photos du code que j'ai réalisé pour le moment, je réfléchis à encore sur ce que j'aimerai faire. Je mettrai bien une loop comme proposais Robin pour pouvoir faire de nouvelle notes à chaque fois ça peut être interessant visuellement c'est toujours un peu brouillon faudrais que je change certaines chose.
 Pour le moment ça ressemble à ça :
 
 ![visuel globale](https://github.com/user-attachments/assets/eb392203-56fd-4b82-9475-5d7517d54489)
