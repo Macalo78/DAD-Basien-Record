@@ -123,3 +123,15 @@ Je test du script pour pouvoir jouer avec les touches de la musique et j'essaie 
 10/12/2024
 J'ai également essayé touché à touch designer et à faire des formes contemplatif, des visuels intéractif, pour le moment j'ai reussi à faire en sorte que le visuel sois relié à ma caméra et j'ai fais la même chose pour le son. Emilie Retailleau m'a également aidé sur touch designer à comprendre son utilisation
 
+19/12/2024
+J'essaie de réalisé des photos du code que j'ai réalisé pour le moment, je réfléchis à encore sur ce que j'aimerai faire. Je mettrai bien une loop comme proposais Robin pour pouvoir faire de nouvelle notes à chaque fois ça peut être interessant visuellement c'est toujours un peu brouillon faudrais que je change certaines chose. 
+Pour le moment ça ressemble à ça :
+
+![visuel globale](https://github.com/user-attachments/assets/eb392203-56fd-4b82-9475-5d7517d54489)
+
+![Sound recorder code 4](https://github.com/user-attachments/assets/7fb05351-59fe-4230-b918-f70609e1543a)
+![Sound recorder code 3](https://github.com/user-attachments/assets/9e5aaa55-6cf4-40e2-a502-6b87b7024377)
+![Sound recorder code 2](https://github.com/user-attachments/assets/ffb8d1dd-fd96-49bc-b946-b045762416c9)
+![Sound recorder code 1](https://github.com/user-attachments/assets/ca495fa8-86da-43f7-acc8-ff9f9a1908e2)
+
+J'aimerai bien changé le fonctionnement de ces boutons faire en sorte peut être que ça soit des objets 3D... (encore en réflexion)
