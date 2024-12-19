@@ -57,6 +57,7 @@ Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :
 
 Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) 
   - Doki Doki
+  - Marie Spénale(Instagram, Youtubeuse, Artiste)
   - Mémoire de la Forêt (livre de Mickael Brun-Arnaud)
   - Pointillisme
 
