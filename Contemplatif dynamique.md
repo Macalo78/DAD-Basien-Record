@@ -45,3 +45,23 @@ Contributions aux ressources Des ressources communes seront alimentées par tous
 PRÉSENTATION DE 20 MINUTES SUR UN SUJET ARTISTIQUE/DESIGN (RECHERCHE THÉORIQUE) Planification Planning de Travail Établissez un planning des étapes clés pour votre projet : Étape 1 : Date et description Étape 2 : Date et description Étape 3 : Date et description Commentaires et Questions //Avez-vous des questions ou des préoccupations à propos du cours ou de vos projets ? :
 
 Journal de bord
+
+10/12/2024
+
+En testant Touch designer, j'ai pu réalisé des visuels relié à la caméra au sons et aux interactions en recherchant des vidéos pour commencer à savoir comment ça marche. 
+
+Les images en dessous c'est réalisé avec des particules qui sont donc relié avec la musique et j'ai aussi essayé avec le micro mais ça rendait mieux avec directement du son. Donc j'ai réalisé l'animation du visuel avec la musique Play Pause de l'artiste Adé de l'album INSIDE OUT MVMT.
+J'ai essayé pour le moment plein de couleurs et j'ai également essayé avec d'autres musique et différentes couleurs
+
+Adé
+![image](https://github.com/user-attachments/assets/7535cd1a-d6e0-4ae2-8337-d6c7356f8d3d)
+![image](https://github.com/user-attachments/assets/558dd7a3-f0d3-454e-94d6-9eb74da5affe)
+
+Kikesa
+
+![Musique Kikesa 1](https://github.com/user-attachments/assets/be2f4024-329d-4037-9392-77fbd6e7e776)
+![Musique Kikesa 2](https://github.com/user-attachments/assets/6487747b-f9f5-4070-82a8-f3d2f1e13a7b)
+![Musique Kikesa 3](https://github.com/user-attachments/assets/ca9b302f-9485-4144-b530-db573dc5be6f)
+
+
+
