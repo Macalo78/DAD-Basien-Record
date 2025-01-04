@@ -108,10 +108,14 @@ Et je pense que je vais mélanger plusieurs sorte de visuel pour apporter ce cô
 
 J'ai pu continuer la narration de mon projet, et j'ai également pu avancer sur son site pour pouvoir y jouer et avoir quelques images du début.
 J'ai chosis sa typographie, je voulais partir sur quelque chose de dessiner rester dans cette univers un peu naif, comme si on se voiler aussi un peu les yeux de la réalité avec ce côté naif et d'un coup qu'un autre style s'offre à nous plus charger plus présent.
+
 ![image](https://github.com/user-attachments/assets/f87c757f-6fe0-4b16-b684-17e220c409f7)
-J'ai fais des test sur les appli d'adobe et j'ai vu que j'aimais bien les dégradés avec un effet prononcé de grain.
+
+J'ai fais des test sur des appli d'adobe illustrator, même processing mais ça rendait pas ce que je voulais et j'ai vu que j'aimais bien les dégradés avec un effet prononcé de grain et que ça pourrait bien s'adapter avec les changements de fond que j'aimerai faire.
 
 ![image](https://github.com/user-attachments/assets/ae75c092-7eb5-478c-9750-930dc99a3657)
+
+
 
 
 
