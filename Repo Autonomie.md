@@ -104,6 +104,14 @@ Depuis quelques semaines, j'ai réalisé plusieurs essaie de nouveaux de style d
 Pour le moment le projet avance plus lentement je dois mettre plein de chose en place. Je dois réecrire certaines chose car j'ai organisé les émotions pour chaques réponse donc maintenant plus à réecrire et se basé sur ça, je pense que pour les bilans je montrerai des dessins, pour montrer un premier jet de la première page si possible pour voir ce que ça donnerai ect... J'aimerai bien mettre vraiment un espace avec des objets de la chambre d'augustine.
 Et je pense que je vais mélanger plusieurs sorte de visuel pour apporter ce côté plus naif mais presque flouter des objets car pour le moment il y a que certains autres objets qui ont vraiment de l'importance.
 
+01/01/2024
+
+J'ai pu continuer la narration de mon projet, et j'ai également pu avancer sur son site pour pouvoir y jouer et avoir quelques images du début.
+J'ai chosis sa typographie, je voulais partir sur quelque chose de dessiner rester dans cette univers un peu naif, comme si on se voiler aussi un peu les yeux de la réalité avec ce côté naif et d'un coup qu'un autre style s'offre à nous plus charger plus présent.
+![image](https://github.com/user-attachments/assets/f87c757f-6fe0-4b16-b684-17e220c409f7)
+J'ai fais des test sur les appli d'adobe et j'ai vu que j'aimais bien les dégradés avec un effet prononcé de grain.
+
+![image](https://github.com/user-attachments/assets/ae75c092-7eb5-478c-9750-930dc99a3657)
 
 
 
