@@ -63,5 +63,9 @@ Kikesa
 ![Musique Kikesa 2](https://github.com/user-attachments/assets/6487747b-f9f5-4070-82a8-f3d2f1e13a7b)
 ![Musique Kikesa 3](https://github.com/user-attachments/assets/ca9b302f-9485-4144-b530-db573dc5be6f)
 
+J'ai réalisé d'autres essaies dont un où j'ai réalisé un visuel interaction à la souris ou l'on créer sur unn mouvement bleu ressemblant à de l'eau des sortes de reflets qui se dérade petit à petit.
+
+![image](https://github.com/user-attachments/assets/0850bc63-f445-45a3-8e6d-45832191b979)
+
 
 
