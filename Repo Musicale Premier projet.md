@@ -118,7 +118,7 @@ Pour le moment j'ai rajouté des boutons pour voir comment ça rendrait et mis l
 
 ![image](https://github.com/user-attachments/assets/212f74c4-5a5b-43f4-a97a-abedfb3cfc76)
 
-03/12/2024 On revue un peu de code avec Anne-Sophie et Jolène on s'est entraider à comprendre comment ça marche.
+03/12/2024 On revue un peu de code avec Anne-Sophie et Jolaine on s'est entraider à comprendre comment ça marche.
 Et j'ai pu voir ce que je pourrais utilisé plus tard pour pouvoir réalisé de futur projets
 
 09/12/2024
