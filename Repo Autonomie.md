@@ -115,6 +115,12 @@ J'ai fais des test sur des appli d'adobe illustrator, même processing mais ça 
 
 ![image](https://github.com/user-attachments/assets/ae75c092-7eb5-478c-9750-930dc99a3657)
 
+06/01/2025
+Continuité du site pour réalisé le jeu Augustine.
+
+07/01/2025
+Dicussion avec Juan sur nos projets respectif pour un peu voir le sujet de l'un et l'autre et échange de référence, il a pu me montrer une reférence qui est : "Oscar Winner Animated Short Film 2022 | The Windshield Wiper" on un peu parlé du style que j'employais pour réalisé mes projets. Et je lui ai donné à mon tour une référence SCP Containment Breach qui est un jeu créer par un seul créateur. Ou j'avais vu une vidéo de Esquive la boule de feu qui fait des analyse assez intéressante des gameplay.
+
 
 
 
