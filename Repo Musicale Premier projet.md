@@ -140,3 +140,7 @@ Pour le moment ça ressemble à ça :
 ![Sound recorder code 1](https://github.com/user-attachments/assets/ca495fa8-86da-43f7-acc8-ff9f9a1908e2)
 
 J'aimerai bien changé le fonctionnement de ces boutons faire en sorte peut être que ça soit des objets 3D... (encore en réflexion)
+
+07/01/2025
+Dicussion avec Juan sur nos projets respectif pour un peu voir le sujet de l'un et l'autre et échange de référence, il a pu me montrer une reférence qui est : "Oscar Winner Animated Short Film 2022 | The Windshield Wiper" on un peu parlé du style que j'employais pour réalisé mes projets.
+Prise de décision pour réaliser une maquette plus poussé pour les bilans avec les recherches . Pour plus tard, mettre à jour la suite.
