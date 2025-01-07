@@ -142,5 +142,5 @@ Pour le moment ça ressemble à ça :
 J'aimerai bien changé le fonctionnement de ces boutons faire en sorte peut être que ça soit des objets 3D... (encore en réflexion)
 
 07/01/2025
-Dicussion avec Juan sur nos projets respectif pour un peu voir le sujet de l'un et l'autre et échange de référence, il a pu me montrer une reférence qui est : "Oscar Winner Animated Short Film 2022 | The Windshield Wiper" on un peu parlé du style que j'employais pour réalisé mes projets.
-Prise de décision pour réaliser une maquette plus poussé pour les bilans avec les recherches . Pour plus tard, mettre à jour la suite.
+Dicussion avec Juan sur nos projets respectif pour un peu voir le sujet de l'un et l'autre et échange de référence, il a pu me montrer une reférence qui est : "Oscar Winner Animated Short Film 2022 | The Windshield Wiper" on un peu parlé du style que j'employais pour réalisé mes projets. Et il m'a aussi proposés des idées pour des effets sur unity pour donner  
+Prise de décision pour réaliser une maquette plus poussé pour les bilans avec les recherches. Pour plus tard, mettre à jour la suite.
