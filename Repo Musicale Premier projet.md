@@ -6,13 +6,13 @@ Nom : Record
 Prénom : Bastien
 
 Profil et Connaissances
-Présentation Personnelle
+## Présentation Personnelle
 //Décrivez en quelques phrases vos objectifs à cours terme et long terme si vou en avez :
 
 Ce qui me passionne, c'est l'idée d'explorer des histoires, de créer des narrations immersives et de réaliser des jeux où l'interaction avec le joueur est au cœur de l'expérience. J'aime cette idée d'interaction par les jeux, car ils peuvent touchés tout les sens. Dans mon projet en autonomie, j'essaie de m'intéresser à l'impact emotionnel de la narration et des visuels par le numérique des recherches (pour le moment c'est toujours du questionnement) mais j'ai envie de faire des recherches par la couleur, la manière de jouer (manette, clavier, touches attribuer) game design, design narratif, art etc...
 Cette année, j'espère approfondir mes compétences,(code, narration, 3D, couleur) la conception des projets, les idées. Et j’espère également, plus tard pouvoir passer en 4ème/5ème année et poursuivre mes recherches, mes projets.
 
-Compétences Actuelles
+## Compétences Actuelles
 Compétences : 
 // notez vous avec une note entre 0 et 20 pour chaque compétence et rajoutez une petite description
 
@@ -33,7 +33,7 @@ je les perds dans mes paroles et si on me coupe la parole je sais que je peux av
 et on dit souvent d'avoir une feuille avec sois mais j'arrive pas à me concentrer entre ce que je dis puis revoir les mots clés je m'enbrouille juste.
 
 Projet et Thématique de Recherche
-Projet 1
+## Projet 1
 Sujet de Projet :
 Est ce que tout le monde peut faire de la musique et avec n'importe quel objets ?
 Créer de la musique avec des objets 3D.
@@ -42,21 +42,21 @@ Titre du projet : Sonorika
 Description du projet (environ 150 mots) :
 Je voudrais créer un jeu sur Unity qu'avec des objets du quotidien ou non, que l'on puisse créer de la musique, créer un beat. Ce qui m'intérresse c'est l'intéraction que l'on pourrait avoir avec l'objet et créer ses propres son. Qu'on puisse enregistrer notre son pour pouvoir l'utiliser pour du mixage etc... Que chaque objet dévoile son propre potenciel. L'idée est de voir par un simple jeu de réaliser sois même son propre beat avec différents objets, et différents sonorité dépendant du type d'objet. On pourra intéragir avec l'objet appuyer par exemple sur une épée sa lame pour produire le son. On pourra aussi jouer plusieurs note en même temps en appuyant sur les touches pour développer le mélange de sonorité. 
 
-Thématiques de Recherche
+## Thématiques de Recherche
 Thématiques que vous souhaitez explorer :
-Intrigué par la réaction de l'interaction.
+Intrigué par la réaction de l'interaction. 
 
-Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :
+## Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :
 La création de jeu vidéo m'intéresse par sa possibilité de nous englobé par tout les sens(toucher, son, visuel...) dans un autre univers. Y a quelque chose de fascinant dans les jeux vidéos c'est qui y a cette englobement de la personne possible et d'interactions avec les spectateurs/les joueurs. Ce que je voulais créer c'était un jeu musicale qui nous aides à réaliser des son, un mix qui nous interresse facilement.
 
 
-Outils et Techniques
+## Outils et Techniques
 Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :
   - Unity 
   - Blender
   - html, css, java, C#(pour unity)
 
-Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :
+## Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :
 Maîtrise de Unity
 et approndir dans le code tout les languages. (encore du mal pas très à l'aise)
 
@@ -67,16 +67,20 @@ Références Artistiques
   - Empty (itch.io)
   - Chants of sennar (jeu) pour l'idée des visuels assez contrasté
 
-Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :
-Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :
+## Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :
+
+Odada représenter ce que je pensais dans l'idée d'ensemble avec des objets avec des sons choisis par les developpeur et créer son propre son pour pouvoir ensuite l'enregistrer. Chant of sennar c'étais surtout pour le côté visuel des couleurs vives, qui se complètais et que je trouvais interessante pour soirtir des détails des objets au 3D et créer des visuels attirants et intriguante.
+
+## Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :
 
 Actions
 Contribution à un Projet d'Autre Étudiant
 // Décrivez comment vous comptez contribuer au projet d'un autre étudiant (proposition d'idées, aide technique, etc.) :
 
-Au départ je voulais proposé de l'aide au niveau de peut être la 3D (blender, unity etc..) mais enfainte on surtout pu discuté des projets de chacun et s'intéressé et surtout ça qu'y a jouer c'est des aides dans ce qu'ils/elles veulent réalisés. J'ai pu discuté avec Eda sur sa disposition de motif sur son essaie d'accrochage avec Anne-Sophie et Jolène on a discuté à propos du code et ce qu'il était possible de réalisé avec ect.. Et avec Emilie on discuté de Touch Designer et ce qu'il était envisageable de réalisé et m'a aidé à réalisé mes projets.
+Au départ, je voulais proposé de l'aide au niveau de peut être la 3D (blender, unity etc..) mais enfainte on surtout pu discuté des projets de chacun. Surtout ce qu'y a jouer c'est des aides dans ce qu'ils/elles veulent réalisés. Ducoup on a pu proposé des idées pour des essaies de présentation de projets. Ou juste dire notre avis sur le sujet voir aussi si on comprennait bien.
+Dans l'exemple, j'ai pu discuté avec Eda sur sa disposition de motif sur son essaie d'accrochage avec Anne-Sophie et Jolène on a discuté à propos du code et ce qu'il était possible de réalisé avec ect.. Et avec Emilie on discuté de Touch Designer et ce qu'il était envisageable de réalisé et m'a aidé à réalisé mes projets.
 
-CRÉATION D'UN SUJET DE RECHERCHE
+## CRÉATION D'UN SUJET DE RECHERCHE
 // Vous devrez tous écrire un sujet de recherche, une thématique ou un propos de création lié à l'un de vos projets. Par exemple, si vous avez un projet de création d'un outil de capture d'image basé sur des algorithmes, vous devrez formuler un intitulé pour cette pratique : « Création de capture d'image algorithmique sur mobile ».
 
 Sucité l'intérêt des gens par l'interaction. 
