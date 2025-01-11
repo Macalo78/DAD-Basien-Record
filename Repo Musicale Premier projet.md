@@ -35,7 +35,8 @@ et on dit souvent d'avoir une feuille avec sois mais j'arrive pas à me concentr
 Projet et Thématique de Recherche
 Projet 1
 Sujet de Projet :
-Est ce que tout le monde peut faire de la musique et avec n'importe quel object ?
+Est ce que tout le monde peut faire de la musique et avec n'importe quel objets ?
+Créer de la musique avec des objets 3D.
 
 Titre du projet : Sonorika
 Description du projet (environ 150 mots) :
@@ -46,7 +47,7 @@ Thématiques que vous souhaitez explorer :
 Intrigué par la réaction de l'interaction.
 
 Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :
-La création de jeu vidéo m'intéresse par sa possibilité de nous englobé par tout les sens(toucher, son, visuel...) dans un autre univers. Y a quelque chose de fascinant dans les jeux vidéos c'est qui y a cette englobement de la personne possible et d'interactions avec les spectateurs/les joueurs. 
+La création de jeu vidéo m'intéresse par sa possibilité de nous englobé par tout les sens(toucher, son, visuel...) dans un autre univers. Y a quelque chose de fascinant dans les jeux vidéos c'est qui y a cette englobement de la personne possible et d'interactions avec les spectateurs/les joueurs. Ce que je voulais créer c'était un jeu musicale qui nous aides à réaliser des son, un mix qui nous interresse facilement.
 
 
 Outils et Techniques
