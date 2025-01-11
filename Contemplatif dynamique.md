@@ -34,11 +34,20 @@ Touch Designer
 
 Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.)
 
-Rafel Rozendaal (Nft)
+- Rafel Rozendaal (Nft)
+- Aurea Sabrina Ratté 2022
+
 
 Actions Contribution à un Projet d'Autre Étudiant // Décrivez comment vous comptez contribuer au projet d'un autre étudiant (proposition d'idées, aide technique, etc.) :
 
-CRÉATION D'UN SUJET DE RECHERCHE // Vous devrez tous écrire un sujet de recherche, une thématique ou un propos de création lié à l'un de vos projets. Par exemple, si vous avez un projet de création d'un outil de capture d'image basé sur des algorithmes, vous devrez formuler un intitulé pour cette pratique : « Création de capture d'image algorithmique sur mobile ». Sucité l'intérêt des gens par l'interaction. Participation à un Sujet de Recherche // Quel sujet de recherche proposé par un étudiant vous intéresse et pourquoi ? :
+CRÉATION D'UN SUJET DE RECHERCHE // Vous devrez tous écrire un sujet de recherche, une thématique ou un propos de création lié à l'un de vos projets. Par exemple, si vous avez un projet de création d'un outil de capture d'image basé sur des algorithmes, vous devrez formuler un intitulé pour cette pratique : « Création de capture d'image algorithmique sur mobile ». 
+
+Créer un visuel contemplatif 
+
+Participation à un Sujet de Recherche 
+// Quel sujet de recherche proposé par un étudiant vous intéresse et pourquoi ? :
+
+Pour ce projet justement, je voulais jouer avec le sujet que réalisé par Emilie Retailleau. Son projet était de réaliser un visuel contemplatif relié à la musique. Ce qui m'attirer était de de réalisé un visuel en mouvement de créer que chose qui nous hypnotise presque. Donc dans mon projet, j'ai voulu créer un visuel de particule qui jouais avec la musique de fond. J'ai donc réalisé des test et j'ai alors créer à partir de la musique d'Adé relié au degré musicale.
 
 Contributions aux ressources Des ressources communes seront alimentées par tous. Chaque étudiant devra contribuer et enrichir cet ensemble de ressources.
 
