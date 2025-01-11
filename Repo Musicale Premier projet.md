@@ -85,8 +85,10 @@ Dans l'exemple, j'ai pu discuté avec Eda sur sa disposition de motif sur son es
 
 Sucité l'intérêt des gens par l'interaction. 
 
-Participation à un Sujet de Recherche
+## Participation à un Sujet de Recherche
 // Quel sujet de recherche proposé par un étudiant vous intéresse et pourquoi ? :
+
+Pour ce projet justement, je voulais jouer avec le sujet que réalisé par Emilie Retailleau. Son projet était de réaliser un visuel contemplatif relié à la musique. Ce qui m'attirer était de de réalisé un visuel en mouvement de créer que chose qui nous hypnotise presque. Donc dans mon projet, j'ai voulu créer un visuel de particule qui jouais avec la musique de fond. J'ai donc réalisé des test et j'ai alors créer à partir de la musique d'Adé relié au degré musicale.
 
 
 Contributions aux ressources
@@ -104,7 +106,7 @@ Commentaires et Questions
 
 
 
-Journal de bord :
+# Journal de bord :
 
 12/11/2024 
 J'ai réalisé mon objet en 3D et continuer des story board pour donner une idée comment le jeu serait. J'ai commencé à regardé des vidéos pour réalisé plus tard l'intéraction avec l'objet et la caméra avec C#.
