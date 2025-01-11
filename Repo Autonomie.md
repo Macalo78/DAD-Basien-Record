@@ -1,7 +1,7 @@
 Fiche Pédagogique
 Informations Étudiant
-Nom : Record
 
+Nom : Record
 Prénom : Bastien
 
 Profil et Connaissances
@@ -25,7 +25,7 @@ INSTALLATION ET MISE EN ESPACE
 PRÉSENTATION ET ARGUMENTATION
 
 Projet et Thématique de Recherche
-Projet 1
+# Projet Autonomie
 Sujet de Projet
 Titre du projet :
 Description du projet (environ 150 mots) :
@@ -42,8 +42,8 @@ Avec ce jeu qui va pouvoir utilisé tout nos sens (touché, ouïe, visuel..) je 
 
 Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :
 
-Ce qui m'interesse c'est que chaque personne jouera différemment et aura pas les mêmes réactions que les précédants. Je veux aussi faire comprendre que par une simple histoire,
-que on ne ressent pas les mêmes choses que son voisin. On est tous différents et vivants avec différentes intensités d'émotions. Même si c'est souvent répété, on respecte pas forcément ce que les autres ressentes.
+Ce qui m'interesse c'est que chaque personne jouera différemment et aura pas les mêmes réactions que les précédants. Je veux aussi faire comprendre que par une simple histoire, que on ne ressent pas les mêmes choses que son voisin. On est tous différents et vivants avec différentes intensités d'émotionnels. 
+Même si c'est souvent répété, on respecte pas forcément ce que les autres ressentes.
 Qui a donc créer des peurs de dire les choses car on se sent pas digne de ressentir ça.
                                 
 
@@ -56,6 +56,9 @@ Références Artistiques
 Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :
 
 Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) 
+
+  - The wreck
+  - Life is strange
   - Doki Doki
   - Marie Spénale(Instagram, Youtubeuse, Artiste)
   - Mémoire de la Forêt (livre de Mickael Brun-Arnaud)
